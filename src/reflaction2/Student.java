@@ -6,7 +6,6 @@ public class Student {
 	int a;;
 	int b;
 	int c;
-
 	public Student(){}
 	   public Student(int a, int b)
 	      {
