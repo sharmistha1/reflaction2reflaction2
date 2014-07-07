@@ -3,7 +3,7 @@ package reflaction2;
 import java.lang.reflect.Method;
 
 public class Student {
-	int a;
+	int a;;
 	int b;
 	int c;
 	public Student(){}
