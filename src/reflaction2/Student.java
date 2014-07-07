@@ -6,6 +6,7 @@ public class Student {
 	int a;;
 	int b;
 	int c;
+int d;
 	public Student(){}
 	   public Student(int a, int b)
 	      {
